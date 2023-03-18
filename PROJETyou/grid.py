@@ -9,9 +9,10 @@ une classe Node et une classe Grid se chargeant, à deux, de la représentation 
 ci-dessus. La classe  Node doit contenir 4 booléens demandés, mais le reste vous
 est laissée totalement au choix; et la classe Grid doit contenir des méthodes suivantes..
 """
+
+
 class Node:
 	pass
-
 
 
 class Grid:
