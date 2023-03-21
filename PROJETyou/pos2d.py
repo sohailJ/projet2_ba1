@@ -1,7 +1,7 @@
 """
 Nom : Bouanane
 Prénom : Yousseff
-Matricule : X
+Matricule : 000575893
 """
 
 
@@ -12,7 +12,7 @@ class Pos2D:
 		self.x = x
 		self.y = y
 
-	def __eq__(self, other: Pos2D) -> bool:
+	def __eq__(self, other) -> bool:
 		"""return : bool
 		permet de tester l'égalité entre deux instances via une expression 
 		sous la forme point1 == point2 """
